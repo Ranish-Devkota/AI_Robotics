@@ -1,0 +1,20 @@
+running develop
+running egg_info
+writing ai_labs.egg-info/PKG-INFO
+writing dependency_links to ai_labs.egg-info/dependency_links.txt
+writing entry points to ai_labs.egg-info/entry_points.txt
+writing requirements to ai_labs.egg-info/requires.txt
+writing top-level names to ai_labs.egg-info/top_level.txt
+reading manifest file 'ai_labs.egg-info/SOURCES.txt'
+writing manifest file 'ai_labs.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/ranish/ros2_ws/install/ai_labs/lib/python3.10/site-packages/ai-labs.egg-link (link to .)
+Installing square script to /home/ranish/ros2_ws/install/ai_labs/lib/ai_labs
+Installing square_solution script to /home/ranish/ros2_ws/install/ai_labs/lib/ai_labs
+Installing subscribe_pose script to /home/ranish/ros2_ws/install/ai_labs/lib/ai_labs
+
+Installed /home/ranish/ros2_ws/build/ai_labs
+running symlink_data
+symbolically linking /home/ranish/ros2_ws/build/ai_labs/resource/ai_labs -> /home/ranish/ros2_ws/install/ai_labs/share/ament_index/resource_index/packages
+symbolically linking /home/ranish/ros2_ws/build/ai_labs/package.xml -> /home/ranish/ros2_ws/install/ai_labs/share/ai_labs
+symbolically linking /home/ranish/ros2_ws/build/ai_labs/launch/lab1_launch.py -> /home/ranish/ros2_ws/install/ai_labs/share/ai_labs/launch

@@ -1,0 +1,22 @@
+[0.469s] Invoking command in '/home/ranish/ros2_ws/build/ai_labs': PYTHONPATH=/home/ranish/ros2_ws/build/ai_labs/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ranish/ros2_ws/install/ai_labs/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/ranish/ros2_ws/build/ai_labs/build --no-deps symlink_data --force
+[0.677s] running develop
+[0.773s] running egg_info
+[0.774s] writing ai_labs.egg-info/PKG-INFO
+[0.774s] writing dependency_links to ai_labs.egg-info/dependency_links.txt
+[0.774s] writing entry points to ai_labs.egg-info/entry_points.txt
+[0.774s] writing requirements to ai_labs.egg-info/requires.txt
+[0.774s] writing top-level names to ai_labs.egg-info/top_level.txt
+[0.776s] reading manifest file 'ai_labs.egg-info/SOURCES.txt'
+[0.776s] writing manifest file 'ai_labs.egg-info/SOURCES.txt'
+[0.777s] running build_ext
+[0.777s] Creating /home/ranish/ros2_ws/install/ai_labs/lib/python3.10/site-packages/ai-labs.egg-link (link to .)
+[0.778s] Installing square script to /home/ranish/ros2_ws/install/ai_labs/lib/ai_labs
+[0.778s] Installing square_solution script to /home/ranish/ros2_ws/install/ai_labs/lib/ai_labs
+[0.778s] Installing subscribe_pose script to /home/ranish/ros2_ws/install/ai_labs/lib/ai_labs
+[0.778s] 
+[0.778s] Installed /home/ranish/ros2_ws/build/ai_labs
+[0.778s] running symlink_data
+[0.778s] symbolically linking /home/ranish/ros2_ws/build/ai_labs/resource/ai_labs -> /home/ranish/ros2_ws/install/ai_labs/share/ament_index/resource_index/packages
+[0.779s] symbolically linking /home/ranish/ros2_ws/build/ai_labs/package.xml -> /home/ranish/ros2_ws/install/ai_labs/share/ai_labs
+[0.780s] symbolically linking /home/ranish/ros2_ws/build/ai_labs/launch/lab1_launch.py -> /home/ranish/ros2_ws/install/ai_labs/share/ai_labs/launch
+[0.803s] Invoked command in '/home/ranish/ros2_ws/build/ai_labs' returned '0': PYTHONPATH=/home/ranish/ros2_ws/build/ai_labs/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ranish/ros2_ws/install/ai_labs/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/ranish/ros2_ws/build/ai_labs/build --no-deps symlink_data --force

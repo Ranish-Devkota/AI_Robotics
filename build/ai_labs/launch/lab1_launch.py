@@ -1,0 +1,1 @@
+/home/ranish/ros2_ws/src/ai_labs/launch/lab1_launch.py

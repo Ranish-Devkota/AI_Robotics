@@ -1,0 +1,31 @@
+running develop
+Removing /home/ranish/ros2_ws/install/ai_labs/lib/python3.10/site-packages/ai-labs.egg-link (link to .)
+running egg_info
+writing ../../build/ai_labs/ai_labs.egg-info/PKG-INFO
+writing dependency_links to ../../build/ai_labs/ai_labs.egg-info/dependency_links.txt
+writing entry points to ../../build/ai_labs/ai_labs.egg-info/entry_points.txt
+writing requirements to ../../build/ai_labs/ai_labs.egg-info/requires.txt
+writing top-level names to ../../build/ai_labs/ai_labs.egg-info/top_level.txt
+reading manifest file '../../build/ai_labs/ai_labs.egg-info/SOURCES.txt'
+writing manifest file '../../build/ai_labs/ai_labs.egg-info/SOURCES.txt'
+running build
+running build_py
+copying ai_labs/square.py -> /home/ranish/ros2_ws/build/ai_labs/build/lib/ai_labs
+running install
+running install_lib
+creating /home/ranish/ros2_ws/install/ai_labs/lib/python3.10/site-packages/ai_labs
+copying /home/ranish/ros2_ws/build/ai_labs/build/lib/ai_labs/__init__.py -> /home/ranish/ros2_ws/install/ai_labs/lib/python3.10/site-packages/ai_labs
+copying /home/ranish/ros2_ws/build/ai_labs/build/lib/ai_labs/square.py -> /home/ranish/ros2_ws/install/ai_labs/lib/python3.10/site-packages/ai_labs
+byte-compiling /home/ranish/ros2_ws/install/ai_labs/lib/python3.10/site-packages/ai_labs/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/ranish/ros2_ws/install/ai_labs/lib/python3.10/site-packages/ai_labs/square.py to square.cpython-310.pyc
+running install_data
+copying resource/ai_labs -> /home/ranish/ros2_ws/install/ai_labs/share/ament_index/resource_index/packages
+copying package.xml -> /home/ranish/ros2_ws/install/ai_labs/share/ai_labs
+copying launch/lab1_launch.py -> /home/ranish/ros2_ws/install/ai_labs/share/ai_labs/launch
+running install_egg_info
+Copying ../../build/ai_labs/ai_labs.egg-info to /home/ranish/ros2_ws/install/ai_labs/lib/python3.10/site-packages/ai_labs-0.0.0-py3.10.egg-info
+running install_scripts
+Installing square script to /home/ranish/ros2_ws/install/ai_labs/lib/ai_labs
+Installing square_solution script to /home/ranish/ros2_ws/install/ai_labs/lib/ai_labs
+Installing subscribe_pose script to /home/ranish/ros2_ws/install/ai_labs/lib/ai_labs
+writing list of installed files to '/home/ranish/ros2_ws/build/ai_labs/install.log'

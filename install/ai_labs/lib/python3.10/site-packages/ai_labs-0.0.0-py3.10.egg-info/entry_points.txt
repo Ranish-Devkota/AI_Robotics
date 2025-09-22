@@ -1,0 +1,6 @@
+[console_scripts]
+initials = ai_labs.initials:main
+square = ai_labs.square:main
+square_solution = ai_labs.square_solution:main
+subscribe_pose = ai_labs.subscribe_pose:main
+

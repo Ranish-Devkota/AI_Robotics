@@ -1,0 +1,27 @@
+[0.237s] Invoking command in '/home/ranish/ros2_ws/src/ai_labs': PYTHONPATH=/home/ranish/ros2_ws/build/ai_labs/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ranish/ros2_ws/install/ai_labs/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/ai_labs build --build-base /home/ranish/ros2_ws/build/ai_labs/build install --record /home/ranish/ros2_ws/build/ai_labs/install.log --single-version-externally-managed install_data
+[0.329s] running egg_info
+[0.329s] writing ../../build/ai_labs/ai_labs.egg-info/PKG-INFO
+[0.329s] writing dependency_links to ../../build/ai_labs/ai_labs.egg-info/dependency_links.txt
+[0.329s] writing entry points to ../../build/ai_labs/ai_labs.egg-info/entry_points.txt
+[0.329s] writing requirements to ../../build/ai_labs/ai_labs.egg-info/requires.txt
+[0.329s] writing top-level names to ../../build/ai_labs/ai_labs.egg-info/top_level.txt
+[0.329s] reading manifest file '../../build/ai_labs/ai_labs.egg-info/SOURCES.txt'
+[0.330s] writing manifest file '../../build/ai_labs/ai_labs.egg-info/SOURCES.txt'
+[0.330s] running build
+[0.330s] running build_py
+[0.330s] copying ai_labs/initials.py -> /home/ranish/ros2_ws/build/ai_labs/build/lib/ai_labs
+[0.330s] running install
+[0.330s] running install_lib
+[0.331s] copying /home/ranish/ros2_ws/build/ai_labs/build/lib/ai_labs/initials.py -> /home/ranish/ros2_ws/install/ai_labs/lib/python3.10/site-packages/ai_labs
+[0.331s] byte-compiling /home/ranish/ros2_ws/install/ai_labs/lib/python3.10/site-packages/ai_labs/initials.py to initials.cpython-310.pyc
+[0.331s] running install_data
+[0.331s] running install_egg_info
+[0.332s] removing '/home/ranish/ros2_ws/install/ai_labs/lib/python3.10/site-packages/ai_labs-0.0.0-py3.10.egg-info' (and everything under it)
+[0.333s] Copying ../../build/ai_labs/ai_labs.egg-info to /home/ranish/ros2_ws/install/ai_labs/lib/python3.10/site-packages/ai_labs-0.0.0-py3.10.egg-info
+[0.333s] running install_scripts
+[0.343s] Installing initials script to /home/ranish/ros2_ws/install/ai_labs/lib/ai_labs
+[0.343s] Installing square script to /home/ranish/ros2_ws/install/ai_labs/lib/ai_labs
+[0.343s] Installing square_solution script to /home/ranish/ros2_ws/install/ai_labs/lib/ai_labs
+[0.343s] Installing subscribe_pose script to /home/ranish/ros2_ws/install/ai_labs/lib/ai_labs
+[0.343s] writing list of installed files to '/home/ranish/ros2_ws/build/ai_labs/install.log'
+[0.353s] Invoked command in '/home/ranish/ros2_ws/src/ai_labs' returned '0': PYTHONPATH=/home/ranish/ros2_ws/build/ai_labs/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ranish/ros2_ws/install/ai_labs/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/ai_labs build --build-base /home/ranish/ros2_ws/build/ai_labs/build install --record /home/ranish/ros2_ws/build/ai_labs/install.log --single-version-externally-managed install_data
